@@ -1,0 +1,5 @@
+Flask==2.1.2
+flask-socketio==5.2.0
+python-dotenv==0.20.0
+eventlet==0.33.0
+deepgram-sdk==2.12.0
